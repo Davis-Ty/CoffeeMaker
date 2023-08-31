@@ -71,5 +71,4 @@ public class Recipe {
     }
 
 
-    // Define getters and setters for other properties similarly
 }

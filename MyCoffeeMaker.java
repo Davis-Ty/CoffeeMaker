@@ -22,5 +22,4 @@ public class MyCoffeeMaker implements MainUI {
         this.recipeBook = recipeBook;
     }
 
-    // Rest of your class methods...
 }
